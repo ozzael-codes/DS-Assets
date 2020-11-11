@@ -5,7 +5,7 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 
 # Schedule and Prerequisites
 ### Prerequisites
-To be able to complete the hands-on labs, you will need to create an IBM Cloud account here.<br>
+To be able to complete the hands-on labs, you will need to create an IBM Cloud account <a href="https://ibm.biz/Bdqkuh ">here</a>.<br>
 Join our slack channel for the event here.<br>
 There are no prerequisites when it comes to skills and knowledge. Join us here to learn and network!
 ### Day 1
