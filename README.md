@@ -11,18 +11,23 @@ There are no prerequisites when it comes to skills and knowledge. Join us here t
 ### Day 1
 |Topic|Presenter|Links|
 |---|---|---|
+|Welcome|
 |Lightning Talk - Introduction to Data Science & use-cases|TBA|Slides <br> Recording|
+|Networking on Slack|
 |Data Refinery Hands-on lab featuring Pandas & CP4D|TBA|Slides <br> Steps <br> Recording|
-
+|Lab Office Hours on Slack|
 ### Day 2
 |Topic|Presenter|Links|
 |---|---|---|
 |Lightning Talk - NLP or Computer Vision|TBA|Slides <br> Recording|
+|Networking on Slack|
 |Extracting Insights from your Data using Cognos & matplotlib|TBA|Slides <br> Steps <br> Recording|
-
+|Office Hours on Slack|
 ### Day 3
 |Topic|Presenter|Links|
 |---|---|---|
 |Lightning Talk - AI Ethics|TBA|Slides <br> Recording|
+|Networking on Slack & getting questions from audience|
 |Machine Learning Deployment with Auto AI Hands-on lab|TBA|Slides <br> Steps <br> Recording|
 |Panel Discussion - Data Science Career|TBA|Recording|
+|Office Hours|
