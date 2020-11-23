@@ -9,7 +9,7 @@ To be able to complete the hands-on labs, you will need to create an IBM Cloud a
 Join our slack channel for the event here.<br>
 There are no prerequisites when it comes to skills and knowledge. Join us here to learn and network!
 ### Day 1
-|<div style="width:290px">Topic</div>|Presenter|Links|
+|<div style="width:500px">Topic</div>|Presenter|Links|
 |---|---|---|
 |Welcome|
 |Lightning Talk + Demo on NLP|Ed Shee|Slides <br> Recording|
@@ -17,14 +17,14 @@ There are no prerequisites when it comes to skills and knowledge. Join us here t
 |Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk|Slides <br> Steps <br> Recording|
 |Lab Office Hours on Slack|
 ### Day 2
-|<div style="width:290px">Topic</div>|Presenter|Links|
+|<div style="width:500px">Topic</div>|Presenter|Links|
 |---|---|---|
 |Decision Making with Data Part 1|Siddharth Bisht|Slides <br> Recording|
 |Networking on Slack|
 |TBA|TBA|Slides <br> Steps <br> Recording|
 |Office Hours on Slack|
 ### Day 3
-|<div style="width:290px">Topic</div>|Presenter|Links|
+|<div style="width:500px">Topic</div>|Presenter|Links|
 |---|---|---|
 |Decision Making with Data Part 2|Siddharth Bisht|Slides <br> Recording|
 |Networking on Slack & getting questions from audience|
