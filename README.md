@@ -5,25 +5,26 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 
 # Schedule and Prerequisites
 ### Prerequisites
-To be able to complete the hands-on labs, you will need to create an IBM Cloud account <a href="https://ibm.biz/Bdqkuh ">here</a>.<br>
-Join our slack channel for the event here.<br>
+- To attend the sessions live, register on Crowdcast <a href="https://www.crowdcast.io/e/ds-career">here</a>.
+- To be able to complete the hands-on labs, you will need to create an IBM Cloud account <a href="https://ibm.biz/Bdqkuh ">here</a>.<br>
+- Join our slack channel for the event here.<br>
 There are no prerequisites when it comes to skills and knowledge. Join us here to learn and network!
 ### Day 1
-|<div style="width:500px">Topic</div>|Presenter|Links|
-|---|---|---|
+|Topic|Presenter|Links|
+|---------------------------------|---|---|
 |Welcome|
 |Lightning Talk + Demo on NLP|Ed Shee|Slides <br> Recording|
 |Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk|Slides <br> Steps <br> Recording|
 |Lab Office Hours on Slack|
 ### Day 2
 |<div style="width:500px">Topic</div>|Presenter|Links|
-|---|---|---|
+|---------------------------------|---|---|
 |Decision Making with Data Part 1|Siddharth Bisht|Slides <br> Recording|
 |TBA|TBA|Slides <br> Steps <br> Recording|
 |Office Hours on Slack|
 ### Day 3
 |<div style="width:500px">Topic</div>|Presenter|Links|
-|---|---|---|
+|---------------------------------|---|---|
 |Decision Making with Data Part 2|Siddharth Bisht|Slides <br> Recording|
 |TBA|TBA|Slides <br> Steps <br> Recording|
 |Panel Discussion - Data Science Career|TBA|Recording|
