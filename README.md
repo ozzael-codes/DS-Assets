@@ -13,21 +13,18 @@ There are no prerequisites when it comes to skills and knowledge. Join us here t
 |---|---|---|
 |Welcome|
 |Lightning Talk + Demo on NLP|Ed Shee|Slides <br> Recording|
-|Networking on Slack|
 |Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk|Slides <br> Steps <br> Recording|
 |Lab Office Hours on Slack|
 ### Day 2
 |<div style="width:500px">Topic</div>|Presenter|Links|
 |---|---|---|
 |Decision Making with Data Part 1|Siddharth Bisht|Slides <br> Recording|
-|Networking on Slack|
 |TBA|TBA|Slides <br> Steps <br> Recording|
 |Office Hours on Slack|
 ### Day 3
 |<div style="width:500px">Topic</div>|Presenter|Links|
 |---|---|---|
 |Decision Making with Data Part 2|Siddharth Bisht|Slides <br> Recording|
-|Networking on Slack & getting questions from audience|
 |TBA|TBA|Slides <br> Steps <br> Recording|
 |Panel Discussion - Data Science Career|TBA|Recording|
 |Office Hours|
