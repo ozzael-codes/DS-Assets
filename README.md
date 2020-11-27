@@ -12,7 +12,7 @@ There are no prerequisites when it comes to skills and knowledge. Join us here t
 ### Day 1
 |Topic|Presenter|Links|
 |---------------------------------|---|---|
-|<a href"https://www.crowdcast.io/e/ds-career/1">Welcome</a>|
+|<a href="https://www.crowdcast.io/e/ds-career/1">Welcome</a>|
 |Teaching computers to read - A short history of Natural Language Processing|Ed Shee, Developer Advocate|Slides <br> <a href="https://www.crowdcast.io/e/ds-career/2">Recording</a>|
 |Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk, Developer Advocate|Slides <br> Steps <br> <a href="https://www.crowdcast.io/e/ds-career/3">Recording</a>|
 |Lab Office Hours on Slack|
