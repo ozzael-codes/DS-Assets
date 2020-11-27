@@ -14,7 +14,7 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 |Topic|Presenter|Links|
 |---------------------------------|---|---|
 |Welcome!| Masa, Sidra|<a href="https://www.crowdcast.io/e/ds-career/1">Recording</a>|
-|Teaching computers to read - A short history of Natural Language Processing|Ed Shee, Developer Advocate|<a href="https://github.com/ozzael-codes/DS-Assets/blob/main/slides/NLP.pdf">Slides</a> <br> <a href="https://www.crowdcast.io/e/ds-career/2">Recording</a>|
+|Teaching computers to read - A short history of Natural Language Processing|Ed Shee, Developer Advocate|<a href="https://github.com/ozzael-codes/DS-Assets/blob/main/slides/NLP.pdf">Slides</a> <br> <a href="https://www.crowdcast.io/e/ds-career/2">Recording</a><br> <a href="https://github.com/ozzael-codes/DS-Assets/blob/main/resources.md">Resources</a>|
 |Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk, Developer Advocate|<a href="https://ibm-developer.gitbook.io/fair-and-explainable-ai/beyond-accuracy">Steps</a> <br> <a href="https://www.crowdcast.io/e/ds-career/3">Recording</a>|
 |Lab Office Hours on Slack|
 ### Day 2
