@@ -13,19 +13,21 @@ There are no prerequisites when it comes to skills and knowledge. Join us here t
 |Topic|Presenter|Links|
 |---------------------------------|---|---|
 |Welcome|
-|Lightning Talk + Demo on NLP|Ed Shee|Slides <br> Recording|
-|Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk|Slides <br> Steps <br> Recording|
+|Teaching computers to read - A short history of Natural Language Processing|Ed Shee, Developer Advocate|Slides <br> Recording|
+|Beyond accuracy: Fairness and Explainability in machine learning|Margriet Groenendijk, Developer Advocate|Slides <br> Steps <br> Recording|
 |Lab Office Hours on Slack|
 ### Day 2
-|<div style="width:500px">Topic</div>|Presenter|Links|
+|Topic|Presenter|Links|
 |---------------------------------|---|---|
-|Decision Making with Data Part 1|Siddharth Bisht|Slides <br> Recording|
-|TBA|TBA|Slides <br> Steps <br> Recording|
+|Welcome|
+|Decision Making with Data Part 1|Siddharth Bisht, Data Scientist|Slides <br> Recording|
+|ML Ops|Muhammed Abdullah, Data Scientist|Slides <br> Steps <br> Recording|
 |Office Hours on Slack|
 ### Day 3
 |<div style="width:500px">Topic</div>|Presenter|Links|
 |---------------------------------|---|---|
-|Decision Making with Data Part 2|Siddharth Bisht|Slides <br> Recording|
-|TBA|TBA|Slides <br> Steps <br> Recording|
-|Panel Discussion - Data Science Career|TBA|Recording|
+|Welcome|
+|Decision Making with Data Part 2|Siddharth Bisht, Data Scientist|Slides <br> Recording|
+| Auto ML|Samaya Madhavan, Advisory Software Engineer|Slides <br> Steps <br> Recording|
+|Panel Discussion - Data Science Career|Sabine Holl, Abeer Haroon, Anchal Bhalla, Gabriela de Queiroz, Jatin Gupta|Recording|
 |Office Hours|
