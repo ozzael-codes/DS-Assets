@@ -22,13 +22,13 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 |---------------------------------|---|---|
 |Welcome!| Masa, Sidra|<a href="https://www.crowdcast.io/e/ds-career/4">Recording</a>|
 |Decision Making with Data Part 1|Siddharth Bisht, Data Scientist|<a href="https://github.com/ozzael-codes/DS-Assets/tree/main/labs/Decision%20Making%20with%20Data%20Part%201">Resources</a><br> <a href="https://www.crowdcast.io/e/ds-career/5">Recording</a>|
-|ML Ops|Muhammed Abdullah, Data Scientist|Slides <br> Steps <br> <a href="https://www.crowdcast.io/e/ds-career/6">Recording</a>|
 |Office Hours on Slack|
 ### Day 3
 |Topic|Presenter|Links|
 |---------------------------------|---|---|
-|Welcome!|Masa, Sidra|<a href="https://www.crowdcast.io/e/ds-career/7">Recording</a>|
-|Decision Making with Data Part 2|Siddharth Bisht, Data Scientist|Slides <br><a href="https://www.crowdcast.io/e/ds-career/8"> Recording</a>|
+|Welcome!|Masa, Sidra|<a href="https://www.crowdcast.io/e/ds-career/6">Recording</a>|
+|ML Ops|Muhammed Abdullah, Data Scientist|Slides <br> Steps <br> <a href="https://www.crowdcast.io/e/ds-career/7">Recording</a>|
+|Decision Making with Data Part 2|Siddharth Bisht, Data Scientist|<a href="https://github.com/ozzael-codes/DS-Assets/tree/main/labs/Decision%20Making%20with%20Data%20part%202">Notebook</a> <br><a href="https://www.crowdcast.io/e/ds-career/8"> Recording</a>|
 |Auto ML|Samaya Madhavan, Advisory Software Engineer|Slides <br> Steps <br> <a href="https://www.crowdcast.io/e/ds-career/9">Recording</a>|
 |Panel Discussion - Data Science Career|Sabine Holl, Abeer Haroon, Anchal Bhalla, Gabriela de Queiroz, Jatin Gupta|<a href="https://www.crowdcast.io/e/ds-career/10">Recording</a>|
 |Office Hours|
