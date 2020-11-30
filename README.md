@@ -9,6 +9,8 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 - To be able to complete the hands-on labs, you will need to create an IBM Cloud account <a href="https://ibm.biz/Bdqkuh ">here</a>.<br>
 
 <br>There are no prerequisites when it comes to skills and knowledge. Join us here to learn and network!
+
+## Agenda
 ### Day 1
 |Topic|Presenter|Links|
 |---------------------------------|---|---|
