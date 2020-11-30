@@ -5,9 +5,8 @@ To enable developers who want to use it at their own pace, pre-recorded sessions
 
 # Schedule and Prerequisites
 ### Prerequisites
-- To attend the sessions live, register on Crowdcast <a href="https://www.crowdcast.io/e/ds-career">here</a>.
+- To attend the sessions live or watch the replay, register on Crowdcast <a href="https://www.crowdcast.io/e/ds-career">here</a>.
 - To be able to complete the hands-on labs, you will need to create an IBM Cloud account <a href="https://ibm.biz/Bdqkuh ">here</a>.<br>
-- Join our slack channel for the event <a href="http://ibm.biz/slack-invite">here</a>.<br>
 
 <br>There are no prerequisites when it comes to skills and knowledge. Join us here to learn and network!
 ### Day 1
